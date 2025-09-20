@@ -1,0 +1,22 @@
+/*  # based id base selection */
+/* #first{
+    background-color: darkolivegreen;
+
+}
+#second{
+    background-color: sienna;
+} */
+/* Class based selction  */
+/* .classname */
+.third{
+    background-color: slategray;
+}
+h1,.fourth{
+    background-color:hsl(110, 23%, 50%);
+    font-size: 30px; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 600;
+}
+/* 1pixel=1 picture element */
+
+

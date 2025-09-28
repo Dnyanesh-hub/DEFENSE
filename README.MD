@@ -25,4 +25,6 @@ This repo is mainly for personal practice, but if you’d like to suggest improv
 - Submit a pull request
 
 ## 📜 License
-This repository is licensed under the MIT License — free to use, modify, and share.
+This repository is licensed under the MIT License — free to use, modify, and share. 
+#  dnyaneshwar
+this all about this page 

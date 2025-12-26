@@ -1,0 +1,21 @@
+span{
+    color: darkcyan;  
+    /* span is inline elemnent */
+}
+*{
+    margin: 0px;
+    padding: 0px;
+    /* universal selector */
+}
+h1{
+    background-color: lightcyan;
+    display: inline;
+    height: 300px;
+    width: 300px;
+}
+h2{
+    display: inline-block;
+    background-color: aqua;
+    height: 300px;
+    width: 300px;
+}

@@ -31,6 +31,7 @@ body{
     background-color: #2a2a2a;
      border:1px solid #3a3a3a;
     border-radius: 16px;
+    padding: 40px;
     
 
 }
@@ -112,7 +113,10 @@ body{
 /* Main content */
 /* navigation css */
 #navigation{
-    padding: 30px 40px;
+    
+    border-bottom: 2px solid #3a3a3a;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
 
 }
 nav{
@@ -126,7 +130,43 @@ nav a{
     color:#a0a0a0;
     font-weight: 500;
     transition: color 0.3s ease;   
+   
 }
+.active,nav a:hover{
+    color: #ffbf00;
+
+}
+/* About Me */
+.line{
+    width: 40px;
+    height: 5px;
+    background-color: #ffbf00;
+    margin-bottom: 15px;
+}
+.content{
+    text-align: justify;
+    color: #a0a0a0;
+
+}
+#about{
+    margin-bottom: 40px;
+
+
+}
+/* Skills section */
+.grid-container{
+    display: flex;
+    grid-template-columns:repeat(auto-fit,minmax(120px,1fr)) ;
+    gap: 40px;
+
+}
+.item image{
+    height:48px;
+    width:48px;
+}
+
+
+
 
 
 

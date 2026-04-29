@@ -238,3 +238,59 @@ Easy Integration
 Can be added to existing projects gradually
 SEO Friendly (with SSR tools)
 Works well with frameworks like Next.js
+Disadvantages of React
+Not a Full Framework
+Only handles UI, requires additional libraries
+Learning Curve
+Concepts like hooks, state management can be confusing
+Too Many Choices
+Multiple libraries for routing, state, etc.
+Frequent Updates
+Ecosystem changes quickly
+Boilerplate in Large Apps
+Needs proper structure and planning
+Limitations of React
+Handles only frontend UI
+Requires external tools for:
+Routing
+State management
+API handling
+Can lead to prop drilling in large apps
+Performance issues if not optimized properly
+SEO issues without server-side rendering
+Debugging can be complex in deeply nested components
+Alternatives to React
+Angular
+Full-fledged framework
+Built-in routing, state management
+Uses TypeScript by default
+Suitable for large enterprise apps
+Vue.js
+Lightweight and easy to learn
+Combines features of React and Angular
+Good for small to medium projects
+Svelte
+No Virtual DOM
+Compiles code at build time
+Faster performance in many cases
+SolidJS
+Fine-grained reactivity
+Very fast and efficient
+Ember.js
+Convention over configuration
+Best for large-scale applications
+When to Use React
+
+Use React when:
+
+You need a dynamic UI
+Building a scalable web app
+Want reusable components
+Need fast performance
+When NOT to Use React
+
+Avoid React when:
+
+Project is very small/simple
+Static website (use plain HTML/CSS)
+You need a full framework out-of-the-box

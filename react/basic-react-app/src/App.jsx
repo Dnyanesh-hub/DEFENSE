@@ -1,6 +1,7 @@
 import "./App.css";
 //import 
-
+import Title from "./Title.jsx";
+// import {Title} from "./Title.jsx";
 // function Title() {
 //   return <h1>I m Dany !</h1>;
 // }

@@ -1,5 +1,11 @@
 function Title() {
-  return <h1>I m Dany !</h1>;
+  let message="happy birthday "
+  return (
+    <div>
+      <p>2*2={2*2}</p>
+      <p>message says:{message}</p>
+    </div>
+  )
 }
 function Sum(a,b){
     return a+b;

@@ -14,15 +14,18 @@ function App() {
   // return <button>hello world!</button>;
 
   return (
-    <div className="mainbox">
-      <h1>This is my App component </h1>
+    // <div className="mainbox">
+    <>
+     <h1>This is my App component </h1>
       <p>inside app component we have :</p>
       <Title></Title>
       <Description></Description>
       <Title></Title>
       <Description></Description>
+      </>
+     
 
-    </div>
+    /* </div> */
   );
   // we cant use class attribute of html in jsx markup cuz class is special reserved keyword in js so class means 
   // class in javascript it is neither attribute we can use alternative names like className but in camelCase format 

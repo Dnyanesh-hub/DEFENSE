@@ -14,7 +14,7 @@ function App() {
   // return <button>hello world!</button>;
 
   return (
-    <div>
+    <div className="mainbox">
       <h1>This is my App component </h1>
       <p>inside app component we have :</p>
       <Title></Title>
@@ -24,6 +24,8 @@ function App() {
 
     </div>
   );
+  // we cant use class attribute of html in jsx markup cuz class is special reserved keyword in js so class means 
+  // class in javascript it is neither attribute we can use alternative names like className but in camelCase format 
 }
 
 export default App;

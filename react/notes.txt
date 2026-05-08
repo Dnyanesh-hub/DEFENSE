@@ -293,4 +293,4 @@ Avoid React when:
 
 Project is very small/simple
 Static website (use plain HTML/CSS)
-You need a full framework out-of-the-box
+You need a full framework out-of-the-box 

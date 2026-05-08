@@ -3,7 +3,7 @@ function Title() {
   return (
     <div>
       <p>2*2={2*2}</p>
-      <p>message says:{message}</p>
+      <p>message says:{message.toUpperCase()}</p>
     </div>
   )
 }
